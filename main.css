@@ -53,6 +53,13 @@
     max-height: 500px; /* Adjust as needed */
   }
 
+<<<<<<< HEAD
+=======
+ nav a.active {
+    color: #3a6515;
+    font-weight: bold;
+  }
+>>>>>>> 3814552147b7b9ff630363f86a0f5d69e3bb39ee
 
 
   /* .hero-text, .hero-description, .hero-button, .hero-image {
@@ -178,4 +185,9 @@ button {
 .what-makes-us-section:hover h3, .what-makes-us-section:hover p {
   transform: scale(0.9) translateY(-10px);
   transition: transform 0.3s ease;
+<<<<<<< HEAD
 } */
+=======
+} */
+
+>>>>>>> 3814552147b7b9ff630363f86a0f5d69e3bb39ee

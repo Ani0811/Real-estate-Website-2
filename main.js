@@ -94,6 +94,7 @@ window.onscroll = () => {
   });
 };
 
+<<<<<<< HEAD
 document.addEventListener('DOMContentLoaded', function() 
 {
   const scrollToTopBtn = document.querySelector('#scrollToTop');
@@ -111,4 +112,6 @@ document.addEventListener('DOMContentLoaded', function()
     }
 });
 
+=======
+>>>>>>> 3814552147b7b9ff630363f86a0f5d69e3bb39ee
 
